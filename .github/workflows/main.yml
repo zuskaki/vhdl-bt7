@@ -1,4 +1,4 @@
-name: deploy SeniorSilvaDosSantos
+name: deploy DosSantosAveiro
 
 on:
   push:
