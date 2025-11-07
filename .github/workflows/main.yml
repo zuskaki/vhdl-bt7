@@ -1,4 +1,4 @@
-name: deploy Scorpentt
+name: deploy MartinLutherr
 
 on:
   push:
